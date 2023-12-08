@@ -252,7 +252,7 @@ closeButton3.addEventListener("click", () => {
 
 // PLAYER ---------------------------------
 const audioPlayer = document.querySelector(".audio-player");
-const audio = new Audio("../audio/WarForLove.mp3");
+const audio = new Audio("./audio/WarForLove.mp3");
 
 console.dir(audio);
 
